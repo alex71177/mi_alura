@@ -1,0 +1,25 @@
+.contenedor-heder{
+    background: rgb(210, 209, 209);
+    display: flex;
+    justify-content: space-between;
+}
+header{
+margin-left: 2%;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.menu-navegacion{
+    margin-right: 2%;
+    padding: 10px;
+   
+
+}
+
+nav> a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+ background: white;   
+ opacity: 0.6;
+}

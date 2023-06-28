@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+:root{
+    --colorverde: rgb(86, 168, 86);
+    --colorazul:rgb(63, 63, 136);
+    --colormorado:rgb(159, 17, 235);
+    --coloranaranjado:rgb(238, 127, 8);
+--colorazuloscuro: rgb(39, 39, 86);
+--colorbody:white;
+}

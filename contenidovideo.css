@@ -1,0 +1,29 @@
+
+h3{
+text-align: center;
+}
+.texto_video{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto 0;
+}
+
+
+.texto_video a{
+
+    text-decoration: none;
+list-style: none;
+    border: solid 1px black;
+}
+.container__video{
+  
+    display: flex;
+    justify-content: space-between;
+   
+}
+video{
+    width: 80%;
+    margin: 10px;
+}
+
